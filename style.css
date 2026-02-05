@@ -1,0 +1,48 @@
+.carte {
+	display: inline-block;
+	width:1em;
+}
+.carte0 {
+	background-color : #c08080;
+	border : solid #ff0000;
+	color : #ff8888;
+}
+.carte1 {
+	background-color : #888888;
+	border : solid #000000;
+	color : #000000;
+}
+.carte2 {
+	background-color : #f0d0d0;
+	border : solid #ff4444;
+	color : #ff4444;
+}	
+.carte3 {
+	background-color : #dddddd;
+	border : solid #444444;
+	color : #444444;
+}
+.carte4 {
+	background-color : #eeccff;
+	border : solid #cc88ff;
+	color : #cc88ff;
+}
+.carte5 {
+	background-color : #8888ff;
+	border : solid #0000ff;
+	color : #0000ff;
+}
+
+.carteM1 { 
+	background-color : #44ffcc;
+	border : solid #00ff88;
+	color : #008822;
+}
+
+#span_pioche {
+	display: inline-block;
+	width:3em;
+	background-color : #cccccc;
+	border : solid #444444;
+	color : #444444;
+}
